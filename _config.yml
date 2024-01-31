@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Qiushi Xiong"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+description              : 
+repository               : "qiushixiong.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Qiushi Xiong"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  avatar           : "images/WechatIMG9.jpeg"
+  bio              : "Northeastern University"
   location         : "Liaoning, China"
   employer         :
   pubmed           : 
