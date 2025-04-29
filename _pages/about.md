@@ -18,9 +18,9 @@ I'm Qiushi Xiong (熊秋实), a second-year M.S. student in Artificial Intellige
 
 # 📝 Publications
 
-<div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; max-width: 1000px; margin: 20px auto; box-shadow: 0 4px 8px rgba(0,0,0,0.05); display: flex; align-items: center;">
+<div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; max-width: 1100px; margin: 20px auto; box-shadow: 0 4px 8px rgba(0,0,0,0.05); display: flex; align-items: center;">
   
-  <div style="flex: 0 0 400px; height: 300px; overflow: hidden;">
+  <div style="flex: 0 0 400px; height: 200px; overflow: hidden;">
     <img src="../images/model.png" alt="Paper Image" style="width: 100%; height: 100%; object-fit: cover;">
   </div>
 
