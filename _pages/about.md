@@ -18,15 +18,15 @@ I'm Qiushi Xiong (熊秋实), a second-year M.S. student in Artificial Intellige
 
 # 📝 Publications
 
-<div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; max-width: 1100px; margin: 20px auto; box-shadow: 0 4px 8px rgba(0,0,0,0.05); display: flex; align-items: center;">
+<div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; max-width: 1000px; margin: 20px auto; box-shadow: 0 4px 8px rgba(0,0,0,0.05); display: flex; align-items: center;">
   
-  <div style="flex: 0 0 400px; height: 200px; overflow: hidden;">
+  <div style="flex: 0 0 400px; height: 300px; overflow: hidden;">
     <img src="../images/model.png" alt="Paper Image" style="width: 100%; height: 100%; object-fit: cover;">
   </div>
 
   <div style="flex: 1; padding: 20px;">
     <div style="background: #FFD700; color: #333; font-weight: bold; display: inline-block; padding: 3px 8px; border-radius: 4px; font-size: 14px; margin-bottom: 10px;">
-      SIGIR 2025 (CCF-A)
+      (CCF-A) SIGIR 2025 
     </div>
     <h3 style="margin: 10px 0 10px 0;">Enhancing the Patent Matching Capability of Large Language Models via the Memory Graph</h3>
     <p style="margin: 0 0 15px 0;">
