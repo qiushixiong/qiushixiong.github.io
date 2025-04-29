@@ -18,20 +18,19 @@ I'm Qiushi Xiong (熊秋实), a second-year M.S. student in Artificial Intellige
 
 # 📝 Publications
 
-<div class='paper-box'>
-  <div class='paper-box-image' style="width: 300px; margin: 0 auto;">
-    <div>
-      <div class="badge" style="background: #FFD700; color: black;">SIGIR 2025 (CCF-A)</div>
-      <img src='https://newxqsoss.oss-cn-hangzhou.aliyuncs.com/undefinedmodel.png' alt="sym" style="width:100%; height:auto;">
+<div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; max-width: 700px; margin: 20px auto; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
+  <div style="position: relative;">
+    <img src="https://newxqsoss.oss-cn-hangzhou.aliyuncs.com/undefinedmodel.png" alt="Paper Image" style="width: 100%; height: auto; display: block;">
+    <div style="position: absolute; top: 10px; left: 10px; background: #FFD700; color: #333; font-weight: bold; padding: 5px 10px; border-radius: 4px; font-size: 14px;">
+      SIGIR 2025 (CCF-A)
     </div>
   </div>
-
-  <div class='paper-box-text' markdown="1">
-
-**Enhancing the Patent Matching Capability of Large Language Models via the Memory Graph**  
-Qiushi Xiong, Zhipeng Xu, Zhenghao Liu, Mengjia Wang, Zulong Chen, Yue Sun, Yu Gu, Xiaohua Li, Ge Yu  
-[**Paper**](https://arxiv.org/abs/2504.14845)
-
+  <div style="padding: 20px;">
+    <h3 style="margin-top: 0;">Enhancing the Patent Matching Capability of Large Language Models via the Memory Graph</h3>
+    <p style="margin: 5px 0 15px 0;">
+      Qiushi Xiong, Zhipeng Xu, Zhenghao Liu, Mengjia Wang, Zulong Chen, Yue Sun, Yu Gu, Xiaohua Li, Ge Yu
+    </p>
+    <a href="https://arxiv.org/abs/2504.14845" target="_blank" style="color: #1a73e8; text-decoration: none; font-weight: bold;">[Paper Link]</a>
   </div>
 </div>
 
