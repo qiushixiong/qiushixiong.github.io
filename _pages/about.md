@@ -19,17 +19,17 @@ I'm Qiushi Xiong (熊秋实), a second-year M.S. student in Artificial Intellige
 # 📝 Publications
 
 <div class='paper-box'>
-  <div class='paper-box-image'>
+  <div class='paper-box-image' style="width: 300px; margin: 0 auto;">
     <div>
       <div class="badge" style="background: #FFD700; color: black;">SIGIR 2025 (CCF-A)</div>
-      <img src='https://newxqsoss.oss-cn-hangzhou.aliyuncs.com/undefinedmodel.png' alt="sym" width="100%">
+      <img src='https://newxqsoss.oss-cn-hangzhou.aliyuncs.com/undefinedmodel.png' alt="sym" style="width:100%; height:auto;">
     </div>
   </div>
 
   <div class='paper-box-text' markdown="1">
 
 **Enhancing the Patent Matching Capability of Large Language Models via the Memory Graph**  
-**Qiushi Xiong**, Zhipeng Xu, Zhenghao Liu, Mengjia Wang, Zulong Chen, Yue Sun, Yu Gu, Xiaohua Li, Ge Yu  
+Qiushi Xiong, Zhipeng Xu, Zhenghao Liu, Mengjia Wang, Zulong Chen, Yue Sun, Yu Gu, Xiaohua Li, Ge Yu  
 [**Paper**](https://arxiv.org/abs/2504.14845)
 
   </div>
