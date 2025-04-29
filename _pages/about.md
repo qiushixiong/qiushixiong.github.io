@@ -14,13 +14,13 @@ I'm Qiushi Xiong (熊秋实), a second-year M.S. student in Artificial Intellige
 - *2024.04 - Present*, Enterprise Intelligence (EI), Alibaba Group, Hangzhou, China.
 
 # 🔥 News
-- *2025.04*: 🎉 Our work **"Enhancing the Patent Matching Capability of Large Language Models via the Memory Graph"** has been accepted by **SIGIR 2025** (CCF-A)!
+- *2025.04*: 🎉 Our work **"Enhancing the Patent Matching Capability of Large Language Models via the Memory Graph"** has been accepted by **SIGIR 2025**!
 
 # 📝 Publications
 
-<div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; max-width: 900px; margin: 20px auto; box-shadow: 0 4px 8px rgba(0,0,0,0.05); display: flex; align-items: center;">
+<div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; max-width: 1100px; margin: 20px auto; box-shadow: 0 4px 8px rgba(0,0,0,0.05); display: flex; align-items: center;">
   
-  <div style="flex: 0 0 300px; height: 200px; overflow: hidden;">
+  <div style="flex: 0 0 400px; height: 200px; overflow: hidden;">
     <img src="../images/model.png" alt="Paper Image" style="width: 100%; height: 100%; object-fit: cover;">
   </div>
 
