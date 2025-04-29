@@ -22,7 +22,7 @@ I'm Qiushi Xiong (熊秋实), a second-year M.S. student in Artificial Intellige
   <div class='paper-box-image'>
     <div>
       <div class="badge" style="background: #FFD700; color: black;">SIGIR 2025 (CCF-A)</div>
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <img src='https://newxqsoss.oss-cn-hangzhou.aliyuncs.com/undefinedmodel.png' alt="sym" width="100%">
     </div>
   </div>
 
