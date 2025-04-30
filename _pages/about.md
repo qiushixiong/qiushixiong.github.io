@@ -20,7 +20,7 @@ I'm Qiushi Xiong (熊秋实), a second-year M.S. student in Artificial Intellige
 
 <div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; max-width: 960px; margin: 20px auto; box-shadow: 0 4px 8px rgba(0,0,0,0.05); display: flex;">
 
-  <div style="flex: 0 0 420px; height: 220px; display: flex; align-items: center; justify-content: center; background: #f9f9f9;">
+  <div style="flex: 0 0 420px; height: 230px; display: flex; align-items: center; justify-content: center; background: #ffffff;">
     <img src="../images/model.png" alt="Paper Image" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
 
