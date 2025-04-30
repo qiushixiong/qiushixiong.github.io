@@ -18,26 +18,24 @@ I'm Qiushi Xiong (熊秋实), a second-year M.S. student in Artificial Intellige
 
 # 📝 Publications
 
-<div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; max-width: 1000px; margin: 20px auto; box-shadow: 0 4px 8px rgba(0,0,0,0.05); display: flex;">
+<div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; max-width: 960px; margin: 20px auto; box-shadow: 0 4px 8px rgba(0,0,0,0.05); display: flex;">
 
-  <div style="flex: 0 0 350px; height: 200px; display: flex; align-items: center; justify-content: center; background: #f9f9f9; padding: 10px;">
+  <div style="flex: 0 0 420px; height: 240px; display: flex; align-items: center; justify-content: center; background: #f9f9f9;">
     <img src="../images/model.png" alt="Paper Image" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
 
-  <div style="flex: 1; padding: 25px 25px 25px 20px;">
-    <h3 style="margin: 10px 0 10px 0; font-size: 22px;">Enhancing the Patent Matching Capability of Large Language Models via the Memory Graph</h3>
-    
-    <p style="margin: 0 0 12px 0; font-size: 15px;">
-      Qiushi Xiong, Zhipeng Xu, Zhenghao Liu, Mengjia Wang, Zulong Chen, Yue Sun, Yu Gu, Xiaohua Li, Ge Yu  
-      <br><span style="color: #888;">Accepted to SIGIR 2025</span>
-    </p>
-
-    <div style="background: #FFD700; color: #333; font-weight: bold; display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 13px; margin-bottom: 15px;">
+  <div style="flex: 1; padding: 20px 24px;">
+    <div style="font-weight: bold; font-size: 16px; margin-bottom: 10px;">
+      Enhancing the Patent Matching Capability of Large Language Models via the Memory Graph
+    </div>
+    <div style="font-size: 14px; margin-bottom: 12px;">
+      Qiushi Xiong, Zhipeng Xu, Zhenghao Liu, Mengjia Wang, Zulong Chen, Yue Sun, Yu Gu, Xiaohua Li, Ge Yu
+    </div>
+    <div style="background: #FFD700; color: #333; font-weight: bold; display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 13px;">
       CCF-A
     </div>
-
-    <div style="margin-top: 10px;">
-      <a href="https://arxiv.org/abs/2504.14845" target="_blank" style="color: #1a73e8; text-decoration: none; font-weight: bold;">[Paper Link]</a>
+    <div style="margin-top: 12px;">
+      <a href="https://arxiv.org/abs/2504.14845" target="_blank" style="color: #1a73e8; text-decoration: none; font-weight: bold; font-size: 14px;">[Paper Link]</a>
     </div>
   </div>
 
