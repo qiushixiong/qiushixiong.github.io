@@ -42,3 +42,8 @@ I'm Qiushi Xiong (熊秋实), a second-year M.S. student in Artificial Intellige
   </div>
 
 </div>
+
+# 🎖 Honors and Awards
+
+- *2023.09* First-Class Graduate Scholarship, Northeastern University
+- *2021.10* National Scholarship, Ministry of Education of the People's Republic of China  
