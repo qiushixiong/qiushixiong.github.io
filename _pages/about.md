@@ -21,7 +21,7 @@ I'm Qiushi Xiong (熊秋实), a second-year M.S. student in Artificial Intellige
 <div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; max-width: 960px; margin: 20px auto; box-shadow: 0 4px 8px rgba(0,0,0,0.05); display: flex;">
 
   <div style="flex: 0 0 420px; height: 240px; display: flex; align-items: center; justify-content: center; background: #ffffff;">
-    <img src="../images/model.png" alt="Paper Image" style="max-width: 97%; max-height: 97%; object-fit: contain;">
+    <img src="../images/MemGraph.png" alt="Paper Image" style="max-width: 97%; max-height: 97%; object-fit: contain;">
   </div>
 
   <div style="flex: 1; padding: 16px 20px;">
@@ -29,7 +29,7 @@ I'm Qiushi Xiong (熊秋实), a second-year M.S. student in Artificial Intellige
       Enhancing the Patent Matching Capability of Large Language Models via the Memory Graph
     </div>
     <div style="font-size: 14px; margin-bottom: 12px;">
-      Qiushi Xiong, Zhipeng Xu, Zhenghao Liu, Mengjia Wang, Zulong Chen, Yue Sun, Yu Gu, Xiaohua Li, Ge Yu
+      <strong>Qiushi Xiong</strong>, Zhipeng Xu, Zhenghao Liu, Mengjia Wang, Zulong Chen, Yue Sun, Yu Gu, Xiaohua Li, Ge Yu
       <br><span style="color: #888;">Accepted by SIGIR 2025</span>
     </div>
     <div style="background: #FFD700; color: #333; font-weight: bold; display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 13px;">
@@ -46,7 +46,7 @@ I'm Qiushi Xiong (熊秋实), a second-year M.S. student in Artificial Intellige
 <div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; max-width: 960px; margin: 20px auto; box-shadow: 0 4px 8px rgba(0,0,0,0.05); display: flex;">
 
   <div style="flex: 0 0 420px; height: 240px; display: flex; align-items: center; justify-content: center; background: #ffffff;">
-    <img src="../images/model.png" alt="Paper Image" style="max-width: 97%; max-height: 97%; object-fit: contain;">
+    <img src="../images/HIPPO.png" alt="Paper Image" style="max-width: 97%; max-height: 97%; object-fit: contain;">
   </div>
 
   <div style="flex: 1; padding: 16px 20px;">
@@ -54,9 +54,9 @@ I'm Qiushi Xiong (熊秋实), a second-year M.S. student in Artificial Intellige
       HIPPO: Enhancing the Table Understanding Capability of Large Language Models through Hybrid-Modal Preference Optimization
     </div>
     <div style="font-size: 14px; margin-bottom: 12px;">
-      Zhenghao Liu, Haolan Wang, Xinze Li, Qiushi Xiong, Xiaocui Yang, Yu Gu, Yukun Yan, Qi Shi, Fangfang Li, Ge Yu, Maosong Sun
+      Zhenghao Liu, Haolan Wang, Xinze Li, <strong>Qiushi Xiong</strong>, Xiaocui Yang, Yu Gu, Yukun Yan, Qi Shi, Fangfang Li, Ge Yu, Maosong Sun
     </div>
-    <div style="background: #FFD700; color: #333; font-weight: bold; display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 13px;">
+    <div style="background: #ADD8E6; color: #333; font-weight: bold; display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 13px;">
       Preprint
     </div>
     <div style="margin-top: 12px;">
