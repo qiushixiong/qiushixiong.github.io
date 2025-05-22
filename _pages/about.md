@@ -51,18 +51,17 @@ I'm Qiushi Xiong (熊秋实), a second-year M.S. student in Artificial Intellige
 
   <div style="flex: 1; padding: 16px 20px;">
     <div style="font-weight: bold; font-size: 16px; margin-bottom: 10px;">
-      Enhancing the Patent Matching Capability of Large Language Models via the Memory Graph
+      HIPPO: Enhancing the Table Understanding Capability of Large Language Models through Hybrid-Modal Preference Optimization
     </div>
     <div style="font-size: 14px; margin-bottom: 12px;">
-      Qiushi Xiong, Zhipeng Xu, Zhenghao Liu, Mengjia Wang, Zulong Chen, Yue Sun, Yu Gu, Xiaohua Li, Ge Yu
-      <br><span style="color: #888;">Accepted by SIGIR 2025</span>
+      Zhenghao Liu, Haolan Wang, Xinze Li, Qiushi Xiong, Xiaocui Yang, Yu Gu, Yukun Yan, Qi Shi, Fangfang Li, Ge Yu, Maosong Sun
     </div>
     <div style="background: #FFD700; color: #333; font-weight: bold; display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 13px;">
-      CCF-A
+      Preprint
     </div>
     <div style="margin-top: 12px;">
-      <a href="https://arxiv.org/abs/2504.14845" target="_blank" style="color: #1a73e8; text-decoration: none; font-weight: bold; font-size: 14px; margin-right: 16px;">[Paper Link]</a>
-      <a href="https://github.com/neuir/memgraph" target="_blank" style="color: #1a73e8; text-decoration: none; font-weight: bold; font-size: 14px;">[Code]</a>
+      <a href="https://arxiv.org/abs/2502.17315" target="_blank" style="color: #1a73e8; text-decoration: none; font-weight: bold; font-size: 14px; margin-right: 16px;">[Paper Link]</a>
+      <a href="https://github.com/NEUIR/HIPPO" target="_blank" style="color: #1a73e8; text-decoration: none; font-weight: bold; font-size: 14px;">[Code]</a>
     </div>
   </div>
 
