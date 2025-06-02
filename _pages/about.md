@@ -46,6 +46,30 @@ I'm Qiushi Xiong (熊秋实), a second-year M.S. student in Artificial Intellige
 <div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; max-width: 960px; margin: 20px auto; box-shadow: 0 4px 8px rgba(0,0,0,0.05); display: flex;height: 220px;">
 
   <div style="flex: 0 0 420px; height: 220px; display: flex; align-items: center; justify-content: center; background: #ffffff;">
+    <img src="../images/ConsRec.png" alt="Paper Image" style="max-width: 97%; max-height: 97%; object-fit: contain;">
+  </div>
+
+  <div style="flex: 1; padding: 16px 20px;">
+    <div style="font-weight: bold; font-size: 16px; margin-bottom: 10px;">
+      ConsRec: Denoising Sequential Recommendation through User-Consistent Preference Modeling
+    </div>
+    <div style="font-size: 14px; margin-bottom: 12px;">
+      Haidong Xin, <strong>Qiushi Xiong</strong>, Zhenghao Liu, Sen Mei, Yukun Yan, Shi Yu, Shuo Wang, Yu Gu, Ge Yu, Chenyan Xiong
+    </div>
+    <div style="background: #ADD8E6; color: #333; font-weight: bold; display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 13px;">
+      Preprint
+    </div>
+    <div style="margin-top: 12px;">
+      <a href="https://arxiv.org/abs/2505.22130" target="_blank" style="color: #1a73e8; text-decoration: none; font-weight: bold; font-size: 14px; margin-right: 16px;">[Paper Link]</a>
+      <a href="https://github.com/NEUIR/ConsRec" target="_blank" style="color: #1a73e8; text-decoration: none; font-weight: bold; font-size: 14px;">[Code]</a>
+    </div>
+  </div>
+
+</div>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; max-width: 960px; margin: 20px auto; box-shadow: 0 4px 8px rgba(0,0,0,0.05); display: flex;height: 220px;">
+
+  <div style="flex: 0 0 420px; height: 220px; display: flex; align-items: center; justify-content: center; background: #ffffff;">
     <img src="../images/HIPPO.png" alt="Paper Image" style="max-width: 97%; max-height: 97%; object-fit: contain;">
   </div>
 
