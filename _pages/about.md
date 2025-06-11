@@ -31,11 +31,12 @@ I'm Qiushi Xiong (熊秋实), a second-year M.S. student in Artificial Intellige
     <div style="font-size: 14px; margin-bottom: 12px;">
       <strong>Qiushi Xiong</strong>, Zhipeng Xu, Zhenghao Liu, Mengjia Wang, Zulong Chen, Yue Sun, Yu Gu, Xiaohua Li, Ge Yu
       <br><span style="color: #888;">Accepted by SIGIR 2025</span>
+      <span style="color: #c0392b; font-weight: 600; font-size: 13.5px; margin-left: 8px;">✦ Oral Presentation</span>
     </div>
     <div style="background: #FFD700; color: #333; font-weight: bold; display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 13px;">
       CCF-A
     </div>
-    <div style="background: #FF6F00; color: #fff; font-weight: bold; display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 13px;">
+    <div style="background: #FF6F00; color: #333; font-weight: bold; display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 13px;">
       Oral
     </div>
     <div style="margin-top: 12px;">
