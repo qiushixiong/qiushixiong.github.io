@@ -36,9 +36,6 @@ I'm Qiushi Xiong (熊秋实), a second-year M.S. student in Artificial Intellige
     <div style="background: #FFD700; color: #333; font-weight: bold; display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 13px;">
       CCF-A
     </div>
-    <div style="background: #FF6F00; color: #333; font-weight: bold; display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 13px;">
-      Oral
-    </div>
     <div style="margin-top: 12px;">
       <a href="https://arxiv.org/abs/2504.14845" target="_blank" style="color: #1a73e8; text-decoration: none; font-weight: bold; font-size: 14px; margin-right: 16px;">[Paper Link]</a>
       <a href="https://github.com/neuir/memgraph" target="_blank" style="color: #1a73e8; text-decoration: none; font-weight: bold; font-size: 14px;">[Code]</a>
