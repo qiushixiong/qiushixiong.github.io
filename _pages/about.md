@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Qiushi Xiong (熊秋实), a second-year M.S. student in Artificial Intelligence at Northeastern University. I am fortunate to be advised by Associate Professor [Zhenghao Liu](https://edwardzh.github.io/). Currently, I am doing a research internship at [Alibaba Group](https://ali-home.alibaba.com/) under the guidance of [Zulong Chen](https://scholar.google.com/citations?user=nUVmSqUAAAAJ&hl=zh-CN). My research interests focus on information retrieval and retrieval-augmented generation.
+I'm Qiushi Xiong (熊秋实), a second-year M.S. student in Artificial Intelligence at Northeastern University. My research interests focus on information retrieval and retrieval-augmented generation.
 
 # 💻 Internships
 - *2024.04 - Present*, Enterprise Intelligence (EI), Alibaba Group, Hangzhou, China.
